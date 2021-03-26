@@ -4,6 +4,11 @@
             "route": "/foo",
             "serve": "/blog/kode24-interview",
             "statusCode": 301
+        },
+        {
+            "route": "/foo",
+            "serve": "https://workshops.ng-girls.org/krakow/",
+            "statusCode": 301
         }
     ]
 }
