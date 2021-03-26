@@ -6,7 +6,7 @@
             "statusCode": 301
         },
         {
-            "route": "/foo",
+            "route": "/bar",
             "serve": "https://workshops.ng-girls.org/krakow/",
             "statusCode": 301
         }
