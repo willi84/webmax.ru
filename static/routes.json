@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/foo",
+            "serve": "/blog/kode24-interview",
+            "statusCode": 301
+        }
+    ]
+}
